@@ -114,8 +114,10 @@ nav ul li a {
 
 }
 
-.contact-container h1 {
+.contact-container h2 {
     margin-bottom: 12px;
+    color: black;
+    font-size: 35px;
 
 }
 
