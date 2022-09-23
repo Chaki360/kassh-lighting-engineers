@@ -102,3 +102,91 @@ nav ul li a {
     color: white;
     background-color: orange;
 }
+
+.input {
+    width: 350px;
+    height: 30px;
+}
+
+.contact-container {
+    width: 85%;
+    margin: 55px auto;
+}
+
+.contact-container h1 {
+    margin-bottom: 12px;
+}
+
+.contact-container p {
+    margin-bottom: 35px;
+}
+
+.contact-left h3 {
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+
+.contact-right h3 {
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+
+.contact-right {
+    box-sizing: border-box;
+    box-shadow: 5px;
+
+}
+
+.input-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.input-row .input-group {
+    flex-basis: 45%;
+}
+
+label {
+    margin-bottom: 5px;
+    display: block;
+    color: lightgrey;
+}
+
+input {
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid #ccc;
+    outline: none;
+    padding-bottom: 7px;
+}
+
+textarea {
+    display: block;
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid #ccc;
+    outline: none;
+    padding-bottom: 10px;
+    box-sizing: border-box;
+}
+
+button {
+    background: orange;
+    width: 200px;
+    height: 35px;
+    border: none;
+    outline: none;
+    color: #fff;
+    border-radius: 30px;
+    margin-top: 20px;
+
+}
+
+tr td:first-child {
+    padding-right: 20px;
+}
+
+tr td {
+    padding-top: 20px;
+}
