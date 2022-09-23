@@ -170,7 +170,7 @@ input {
 textarea {
     display: block;
     width: 100%;
-    border: none;
+    border: 1px solid #000;
     border-bottom: 1px solid #ccc;
     outline: none;
     padding-bottom: 10px;
